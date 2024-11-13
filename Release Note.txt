@@ -1,0 +1,53 @@
+Release Notes - Feather Finder
+
+Version 1.0
+
+Release Date: [Insert Release Date]
+
+Introduction
+Feather Finder is a dedicated mobile application for bird-watching enthusiasts, offering a comprehensive, user-friendly experience for discovering birds, tracking sightings, and connecting with a community of birdwatchers. This release includes several innovative features that enhance the app's functionality and user experience, making bird watching more engaging and interactive.
+
+New and Innovative Features
+
+Trip Cards
+
+Description: Users can create personalized Trip Cards to document and save the bird sightings they encounter during their trips. Each Trip Card stores relevant details about the trip, including the birds spotted, their locations, and any other memorable aspects of the birdwatching experience.
+Purpose: This feature helps users organize their observations by trip, making it easy to revisit and relive previous bird-watching outings.
+
+Sound Recognition
+
+Description: The app includes a sound recognition feature, enabling users to record bird sounds and identify bird species based on their calls. This powerful tool provides another way for users to discover and document species they may not visually encounter.
+Purpose: This feature leverages the user to be able play sounds of birds if confused by the name of the bird to identify.
+
+Community Contributions and Social Sharing
+
+Description: Feather Finder allows users to engage with a wider community by sharing their sightings on social media platforms. This feature encourages collaboration and interaction with other birdwatchers worldwide, fostering a sense of community.
+Purpose: This social integration promotes user engagement, expands the reach of the app, and builds a network of birdwatching enthusiasts.
+
+Customizable User Settings
+
+Description: Users can personalize their experience by adjusting app appearance, choosing between light and dark modes, and selecting their preferred metric system (kilometers or miles). Additionally, users can set a maximum travel distance for bird-watching hotspots, tailoring the app to their preferences and mobility.
+Purpose: These customization options create a user-friendly experience, enabling enthusiasts to use the app in a way that best suits their needs.
+
+Mapping and Navigation with Hotspot Filtering
+
+Description: Feather Finder features an interactive map that displays the user’s current location and nearby birdwatching hotspots, with options to filter by species and distance. This feature utilizes the eBird API to provide users with up-to-date bird location data.
+Purpose: This map function makes it easy to plan trips and explore new areas, helping users locate prime birdwatching spots quickly and conveniently.
+
+Bird Observation Logging
+
+Description: Enthusiasts can document their sightings by logging details such as species name, location, date, and photos of the birds. The app organizes these logs, allowing users to view past sightings in a list or on the map.
+Purpose: This feature provides a personalized record of each user's birdwatching history, making it simple to track progress and reflect on past experiences.
+
+Notification System for Proximity Alerts
+
+Description: The app sends users alerts when they are near recorded sightings or rare species, enhancing the likelihood of unique observations.
+Purpose: This feature enhances the birdwatching experience by notifying users of significant nearby opportunities, fostering discovery.
+Performance and Security Improvements
+Enhanced Performance:
+The mapping and hotspot display features have been optimized for fast loading times and minimal lag, ensuring a smooth experience.
+
+Data Security:
+User data, including personal details, settings, and sightings, are stored securely in a Firebase database with encryption for data at rest and in transit, adhering to high standards of privacy and security.
+
+End of Release Notes
